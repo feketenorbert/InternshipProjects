@@ -1,0 +1,8 @@
+input:
+query:
+input-tokenizer:
+query-tokenizer:
+input-filters:
+query-filters:
+synonyms:
+stemming:
